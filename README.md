@@ -10,4 +10,4 @@
   - :door: [Facebook] (https://www.facebook.com/arnab.sen.35912/)
 - ⚡ Fun fact: I am a math undergrad pursued Data Science & heading to Corporate Life.
 
-[![Arnab's github Poor stats]https://github-readme-stats.vercel.app/api?username=ArnabbLank&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+![Arnab's github Poor stats](https://github-readme-stats.vercel.app/api?username=ArnabbLank&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats))

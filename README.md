@@ -1,16 +1,26 @@
-### How You Doin'? 👋
+# Hey, I'm Arnab 👋
 
+Software Engineer at [Appian](https://appian.com) building AI-powered developer tools — agent orchestration, workflow automation, and code generation for enterprise platforms.
 
-- 🔭 I’m currently working on Data Analytics.
-- 🌱 I’m currently learning Deep Learning.
-- 👯 I’m looking to collaborate on Machine Learning.
-- 💬 Ask me about Coding, Mathematics..
-- 📫 How to reach me: 
-  - :office: [LinkedIn](https://www.linkedin.com/in/arnab-sen-7020b8200/)
-  - :door: [Facebook](https://www.facebook.com/arnab.sen.35912/)
-- ⚡ Fun fact: I am a math undergrad pursued Data Science & heading to Corporate Life.
+## What I work on
 
-![Arnab's github Poor stats](https://github-readme-stats.vercel.app/api?username=ArnabbLank&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+- **Agentic systems** — state machines, multi-step LLM orchestration, MCP server integration
+- **Real-time streaming** — SSE-based event pipelines for interactive AI copilots
+- **Full-stack product engineering** — Java, TypeScript, React, Python, Kubernetes
+- **AI automation** — natural-language-driven workflow and object generation
 
-## Checkout My Contributions: 
-- @[xKDR](https://github.com/xKDR/SmoothingSplines.jl) on Julia Language.
+Previously: built OCR→NLP→ML pipelines at Carelon (Elevance Health) that cut medical bill processing time by 70%.
+
+## Tech
+
+`Python` `TypeScript` `Java` `React` `FastAPI` `LangChain` `Kubernetes` `Docker` `AWS` `PostgreSQL` `MongoDB`
+
+## Education
+
+- **M.Sc. Data Science** — Chennai Mathematical Institute
+- **B.Sc. Mathematics** — Presidency University, Kolkata
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-sen-7020b8200/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:arnabsen72@gmail.com)

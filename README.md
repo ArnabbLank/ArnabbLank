@@ -11,6 +11,15 @@ Software Engineer at [Appian](https://appian.com) building AI-powered developer 
 
 Previously: built OCR→NLP→ML pipelines at Carelon (Elevance Health) that cut medical bill processing time by 70%.
 
+## Side Projects
+
+| Project | What | Tech |
+|---------|------|------|
+| **LangGraph Visual** | Drag-and-drop visual workflow builder → Python code | React, TypeScript, Python |
+| **RUL Copilot** | Predictive maintenance with uncertainty quantification | PyTorch, CNN-LSTM, Transformer, RAG |
+| **EnvCraft** | Type-safe multi-source .env loading for Python | Python (package) |
+| **Google Form Auto-Filler** | Extract questions → generate answers via LLM | Python, Claude, AWS Bedrock |
+
 ## Tech
 
 `Python` `TypeScript` `Java` `React` `FastAPI` `LangChain` `Kubernetes` `Docker` `AWS` `PostgreSQL` `MongoDB`

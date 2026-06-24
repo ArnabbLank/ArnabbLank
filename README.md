@@ -15,10 +15,10 @@ Previously: built OCR→NLP→ML pipelines at Carelon (Elevance Health) that cut
 
 | Project | What | Tech |
 |---------|------|------|
-| **LangGraph Visual** | Drag-and-drop visual workflow builder → Python code | React, TypeScript, Python |
+| **GitHub MCP Server** | Minimal MCP server — connect Claude/Cursor to GitHub in ~140 lines | Python, FastMCP, httpx |
 | **RUL Copilot** | Predictive maintenance with uncertainty quantification | PyTorch, CNN-LSTM, Transformer, RAG |
 | **EnvCraft** | Type-safe multi-source .env loading for Python | Python (package) |
-| **Google Form Auto-Filler** | Extract questions → generate answers via LLM | Python, Claude, AWS Bedrock |
+| **LangGraph Visual** | Drag-and-drop visual workflow builder → Python code | React, TypeScript, Python |
 
 ## Tech
 
